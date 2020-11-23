@@ -15,4 +15,3 @@ try: #Yanlış bir değer girilmesi durumunda hata ayıklamayı sağlamak için 
             break #Döngüden çıkılıyor...
 except ValueError: #"ValueError" hatası alındığında gerçekleşecek durum.
     print("Lütfen Sayı Giriniz!")
-#Geçti
